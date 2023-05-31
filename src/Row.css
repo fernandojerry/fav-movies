@@ -4,10 +4,13 @@
     max-height: 100px;
     transition: transform 470ms;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .row {
     margin-left: 20px;
+    color: white;
+    margin-bottom: 20px;
 }
 
 .row-posters:hover{
@@ -26,4 +29,8 @@
 
 .row-posterLarge {
     max-height: 250px;
+}
+
+.search-results {
+    max-height: 300px;
 }
